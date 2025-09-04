@@ -1,0 +1,21 @@
+[
+  {
+    "id": "munich_emptypark",
+    "imageUrl": "https://willemhollants.github.io/geoguessr-assets/panos/munich_emptypark.jpg",
+    "latitude": 48.1737,
+    "longitude": 11.5466
+  },
+  {
+    "id": "bad_bentheim_castle",
+    "imageUrl": "https://willemhollants.github.io/geoguessr-assets/panos/bad_bentheim_castle.jpg",
+    "latitude": 52.3014,
+    "longitude": 7.1566
+  },
+  {
+    "id": "colbitz_forest_road",
+    "imageUrl": "https://willemhollants.github.io/geoguessr-assets/panos/colbitz_forest_road.jpg",
+    "latitude": 52.3093,
+    "longitude": 11.6414
+  }
+
+]
